@@ -1,5 +1,5 @@
 # Monday morning Work Discussion Locations: 
-**Bigger** and smaller meetings start at 9:15
+**Bigger** and smaller meetings (start at 9:15)
 
 |Date | Location|
 |---|---|
