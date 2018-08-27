@@ -1,5 +1,5 @@
-# Monday morning work Discussion Locations: 
-
+# Monday morning Work Discussion Locations: 
+**Big** and smaller meetings
 
 |Date | Location|
 |---|---|
